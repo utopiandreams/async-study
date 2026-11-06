@@ -4,4 +4,4 @@ plugins {
 
 rootProject.name = "async-study"
 
-include("day01", "day02", "day03", "day04")
+include("day01", "day02", "day03", "day04", "day05")
